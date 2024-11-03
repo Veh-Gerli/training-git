@@ -1,9 +1,9 @@
 This is 1.txt
-Change 4
+Change 5
 =============
-This is new chages
+This is new changes
 =============
-These are new chages
+These are new changes
 1
 2
 3
@@ -25,3 +25,5 @@ These are new chages
 18
 19
 20
+============
+Very important change
