@@ -1,44 +1,9 @@
 This is 1.txt
 Change 8
 =============
-This is new changes
-=============
-These are new changes
-1
-2============
+This is new chages
+============
 These new changes that different by main
 ============
 0
-3
-4
-5
-6
-7
-8
-9
-10
-============
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-============
-Very important change
-====end=====
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
 1
